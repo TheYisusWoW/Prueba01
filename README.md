@@ -1,3 +1,3 @@
 # Prueba01
 Repositorio 1
-comit desde web
+commit desde escritorio y archivo de texto
